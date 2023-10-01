@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+Pipfile
+Pipfile.lock
+main_dataa.csv
+dashboard/requirements.txt
