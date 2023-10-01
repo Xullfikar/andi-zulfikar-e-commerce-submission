@@ -1,4 +1,4 @@
-# E-commerce 
+# E-Commerce Public Dataset
 ## Setup environment 
 ```
 pipenv install
